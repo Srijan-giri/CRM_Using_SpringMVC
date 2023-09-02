@@ -1,0 +1,39 @@
+Spring MVC Login & Registration page :
+-----------------------------------------------
+
+request  - dispatcher servlet- handler mpping - controller - 
+service class - dao class - database
+
+--------------------------------------------------------------
+
+web.xml - dispatcher servlet - spring-mvc - spring-mvc-servlet.xml
+
+home.jsp - register,login
+register.jsp
+login.jsp
+error.jsp
+
+4 classes
+
+1. Controller classer
+    A. RegistrationController
+    B. LoginController
+    
+2. Service class
+  A. UserService(I)
+  B. UserServiceImpl(Class)
+  
+ 3. DAO class
+    A. UserDao(Interface)
+    B.UserDao(impl class)
+    
+ 4. model class
+    A. User
+    B. Login
+    
+ Spring IOC
+ Spring MVC
+ servlet
+ pom.xml
+ 
+     
